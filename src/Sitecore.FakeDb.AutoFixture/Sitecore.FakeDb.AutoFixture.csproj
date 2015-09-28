@@ -64,6 +64,8 @@
     <Compile Include="ContentAttributeRelay.cs" />
     <Compile Include="ContextDatabaseCustomization.cs" />
     <Compile Include="ContextDatabaseSpecimenBuilder.cs" />
+    <Compile Include="AddFieldsSpecimenCommand.cs" />
+    <Compile Include="DbFieldsCustomization.cs" />
     <Compile Include="DbItemParameterSpecification.cs" />
     <Compile Include="ItemParameterSpecification.cs" />
     <Compile Include="TemplateItemSpecimenBuilder.cs" />
