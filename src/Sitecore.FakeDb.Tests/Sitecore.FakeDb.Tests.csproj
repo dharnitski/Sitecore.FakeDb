@@ -113,6 +113,7 @@
     <Compile Include="Data\Engines\DataCommands\CommonCommandTest.cs" />
     <Compile Include="Data\Engines\DataCommands\Prototypes\CommonCommandPrototypeTest.cs" />
     <Compile Include="Data\Engines\DataStorageSwitcherTest.cs" />
+    <Compile Include="DbExtensionsTest.cs" />
     <Compile Include="DefaultAutoDataAttribute.cs" />
     <Compile Include="AutoFixture\AutoFixtrureTest.cs" />
     <Compile Include="Data\BranchRecordsTest.cs" />

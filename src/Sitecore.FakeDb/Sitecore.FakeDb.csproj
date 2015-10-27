@@ -82,6 +82,7 @@
     <Compile Include="Data\Engines\DataStorageSwitcher.cs" />
     <Compile Include="Data\Engines\ItemNames.cs" />
     <Compile Include="Data\FakeStandardValuesProvider.cs" />
+    <Compile Include="DbExtensions.cs" />
     <Compile Include="DbFieldIds.cs" />
     <Compile Include="DbItemChildCollection.cs" />
     <Compile Include="FieldNamingHelper.cs" />
