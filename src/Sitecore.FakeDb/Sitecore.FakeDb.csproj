@@ -84,7 +84,6 @@
     <Compile Include="Data\Engines\DataCommands\Prototypes\GetChildrenCommandPrototype.cs" />
     <Compile Include="Data\Engines\DataCommands\Prototypes\GetItemCommandPrototype.cs" />
     <Compile Include="Data\Engines\DataCommands\Prototypes\GetParentCommandPrototype.cs" />
-    <Compile Include="Data\Engines\DataCommands\Prototypes\GetRootItemCommandPrototype.cs" />
     <Compile Include="Data\Engines\DataCommands\Prototypes\GetVersionsCommandPrototype.cs" />
     <Compile Include="Data\Engines\DataCommands\Prototypes\HasChildrenCommandPrototype.cs" />
     <Compile Include="Data\Engines\DataCommands\DataEngineCommand.cs" />
@@ -162,7 +161,6 @@
     <Compile Include="Data\Engines\DataCommands\DeleteItemCommand.cs" />
     <Compile Include="Data\Engines\DataCommands\GetBlobStreamCommand.cs" />
     <Compile Include="Data\Engines\DataCommands\GetParentCommand.cs" />
-    <Compile Include="Data\Engines\DataCommands\GetRootItemCommand.cs" />
     <Compile Include="Data\Engines\DataCommands\GetChildrenCommand.cs" />
     <Compile Include="Data\Engines\DataCommands\GetVersionsCommand.cs" />
     <Compile Include="Data\Engines\DataCommands\HasChildrenCommand.cs" />
