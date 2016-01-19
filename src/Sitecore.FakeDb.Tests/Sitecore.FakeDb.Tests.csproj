@@ -140,7 +140,6 @@
     <Compile Include="Data\Engines\DataCommands\Prototypes\GetItemCommandPrototypeTest.cs" />
     <Compile Include="Data\Engines\DataCommands\Prototypes\GetParentCommandPrototypeTest.cs" />
     <Compile Include="Data\Engines\DataCommands\Prototypes\GetVersionsCommandPrototypeTest.cs" />
-    <Compile Include="Data\Engines\DataCommands\Prototypes\HasChildrenCommandPrototypeTest.cs" />
     <Compile Include="Data\Engines\DataCommands\Prototypes\MoveItemCommandPrototypeTest.cs" />
     <Compile Include="Data\Engines\DataCommands\Prototypes\RemoveVersionCommandPrototypeTest.cs" />
     <Compile Include="Data\Engines\DataCommands\Prototypes\ResolvePathCommandPrototypeTest.cs" />
@@ -179,7 +178,6 @@
     <Compile Include="Data\Engines\DataCommands\GetChildrenCommandTest.cs" />
     <Compile Include="Data\Engines\DataCommands\AddVersionCommandTest.cs" />
     <Compile Include="Data\Engines\DataCommands\GetVersionsCommandTest.cs" />
-    <Compile Include="Data\Engines\DataCommands\HasChildrenCommandTest.cs" />
     <Compile Include="Data\Engines\DataCommands\GetItemCommandTest.cs" />
     <Compile Include="Data\Engines\DataCommands\GetParentCommandTest.cs" />
     <Compile Include="Data\Engines\DataCommands\SaveItemCommandTest.cs" />
