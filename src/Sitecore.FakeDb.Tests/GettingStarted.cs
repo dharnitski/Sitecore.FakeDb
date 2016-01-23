@@ -2,6 +2,7 @@
 {
   using System.Linq;
   using NSubstitute;
+  using Sitecore.Configuration;
   using Xunit;
 
   public class GettingStarted
@@ -642,6 +643,7 @@
       {
         Xunit.Assert.Equal("website", Sitecore.Context.Site.Name);
         Xunit.Assert.Equal("web", Sitecore.Context.Site.Database.Name);
+        Xunit.Assert.Equal("website", Factory.GetSite("website").Name);
       }
     }
 
