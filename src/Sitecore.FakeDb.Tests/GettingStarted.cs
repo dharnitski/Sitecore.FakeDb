@@ -639,7 +639,7 @@
           });
 
       // switch the context site
-      using (new Sitecore.Sites.SiteContextSwitcher(fakeSite))
+      using (new Sitecore.FakeDb.Sites.FakeSiteContextSwitcher(fakeSite))
       {
         Xunit.Assert.Equal("website", Sitecore.Context.Site.Name);
         Xunit.Assert.Equal("web", Sitecore.Context.Site.Database.Name);
